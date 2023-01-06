@@ -13,6 +13,10 @@
   }
 }
 
+h2{
+  font-family: 'Bigelow Rules';
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +39,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.app-title {
+  margin-top: 75px;
+  margin-bottom: 50px ;
+  font-size: 76px;
+  color: #0ccac4;
+  font-family: 'Bigelow Rules';
 }
